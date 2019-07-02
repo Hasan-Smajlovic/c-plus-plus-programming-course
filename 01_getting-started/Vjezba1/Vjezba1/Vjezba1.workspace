@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Vjezba1" Database="" Version="10.0.0">
+  <Project Name="Test2" Path="Test2/Test2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Test2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Test2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+  <VirtualDirectory Name="Vjezba2">
+    <VirtualDirectory Name="Vjezba2"/>
+  </VirtualDirectory>
+</CodeLite_Workspace>
