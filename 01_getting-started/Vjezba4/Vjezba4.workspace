@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Vjezba4" Database="" Version="10.0.0">
+  <Project Name="Nesto" Path="Nesto/Nesto.project" Active="No"/>
+  <Project Name="Vejzba4" Path="Vejzba4/Vejzba4.project" Active="No"/>
+  <Project Name="Firstproject" Path="Firstproject/Firstproject.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Vejzba4" ConfigName="Debug"/>
+      <Project Name="Nesto" ConfigName="Debug"/>
+      <Project Name="Firstproject" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Vejzba4" ConfigName="Release"/>
+      <Project Name="Nesto" ConfigName="Release"/>
+      <Project Name="Firstproject" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
