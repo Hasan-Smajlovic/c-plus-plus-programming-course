@@ -12,7 +12,7 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Hasan\Desktop\c-plus-plus-programming-course\01_getting-started\Vjezba4\Nesto\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="2" Name="FirstVisibleLine"/>
       <int Value="4" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
