@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Global Variables" Database="" Version="10.0.0">
+  <Project Name="Global_Variables" Path="Global_Variables/Global_Variables.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Global_Variables" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Global_Variables" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
