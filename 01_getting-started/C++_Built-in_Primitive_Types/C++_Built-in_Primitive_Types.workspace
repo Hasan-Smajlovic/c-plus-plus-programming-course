@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++_Built-in_Primitive_Types" Database="" Version="10.0.0">
+  <Project Name="C_Built-in_Primitive_Types" Path="C_Built-in_Primitive_Types/C_Built-in_Primitive_Types.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="C_Built-in_Primitive_Types" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="C_Built-in_Primitive_Types" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
