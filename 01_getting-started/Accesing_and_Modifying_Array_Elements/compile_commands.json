@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\Hasan\\Desktop\\c-plus-plus-programming-course\\01_getting-started\\Accesing_and_Modifying_Array_Elements\\Accesing_and_Modifying_Array_Elements\\main.cpp",
+  "directory": "C:\\Users\\Hasan\\Desktop\\c-plus-plus-programming-course\\01_getting-started\\Accesing_and_Modifying_Array_Elements\\Accesing_and_Modifying_Array_Elements",
+  "command": "clang  -c C:\\Users\\Hasan\\Desktop\\c-plus-plus-programming-course\\01_getting-started\\Accesing_and_Modifying_Array_Elements\\Accesing_and_Modifying_Array_Elements\\main.cpp -o C:\\Users\\Hasan\\Desktop\\c-plus-plus-programming-course\\01_getting-started\\Accesing_and_Modifying_Array_Elements\\Accesing_and_Modifying_Array_Elements\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
