@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Accesing_and_Modifying_Vector Elements" Database="" Version="10.0.0">
+  <Project Name="Accesing_and_Modifying_Vector_Elements" Path="Accesing_and_Modifying_Vector_Elements/Accesing_and_Modifying_Vector_Elements.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Accesing_and_Modifying_Vector_Elements" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Accesing_and_Modifying_Vector_Elements" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
