@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Arithmetic_operator" Database="" Version="10.0.0">
+  <Project Name="Arithmetic_operator" Path="Arithmetic_operator/Arithmetic_operator.project" Active="No"/>
+  <Project Name="Euros" Path="Euros/Euros.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Arithmetic_operator" ConfigName="Debug"/>
+      <Project Name="Euros" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Arithmetic_operator" ConfigName="Release"/>
+      <Project Name="Euros" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
