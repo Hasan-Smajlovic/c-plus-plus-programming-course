@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Statement_and_Operator_Challenge" Database="" Version="10.0.0">
+  <Project Name="Statement_and_Operator_Challenge_" Path="Statement_and_Operator_Challenge_/Statement_and_Operator_Challenge_.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Statement_and_Operator_Challenge_" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Statement_and_Operator_Challenge_" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
