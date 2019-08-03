@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="079 Nested if Statement" Database="" Version="10.0.0">
+  <Project Name="Nested_if_Statement" Path="Nested_if_Statement/Nested_if_Statement.project" Active="No"/>
+  <Project Name="Shipping" Path="Shipping/Shipping.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Nested_if_Statement" ConfigName="Debug"/>
+      <Project Name="Shipping" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Nested_if_Statement" ConfigName="Release"/>
+      <Project Name="Shipping" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
